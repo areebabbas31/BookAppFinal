@@ -1,0 +1,3 @@
+[submodule "BulkyBookWeb"]
+	path = BulkyBookWeb
+	url = https://github.com/areebabbas31/BulkyBookWeb.git
